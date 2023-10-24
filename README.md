@@ -15,10 +15,18 @@ Também é importante destacar que sou uma Pessoa com Deficiência (PcD) e utili
 
 ## Habilidades
 
+### Habilidades Técnicas (Hard Skills)
 - Linguagens de programação: Java
 - Tecnologias e frameworks: Spring Boot
 - Banco de dados: PostgreSQL
 - Ferramentas: Docker, DBeaver
+
+### Habilidades Pessoais (Soft Skills)
+- Comunicação eficaz
+- Resolução de problemas
+- Trabalho em equipe
+- Adaptabilidade
+- Aprendizado contínuo
 
 ## Contato
 
