@@ -28,7 +28,7 @@ Também é importante destacar que sou uma Pessoa com Deficiência (PcD) e utili
 - Adaptabilidade
 - Aprendizado contínuo
 
-Essas habilidades técnicas e pessoais me ajudam a ser um desenvolvedor de software completo e eficaz, capaz de enfrentar desafios técnicos e trabalhar bem em equipes multidisciplinares.
+Essas habilidades técnicas e pessoais me ajudam a ser um profissional capaz de enfrentar desafios técnicos e trabalhar bem em equipes multidisciplinares.
 
 ## Contato
 
