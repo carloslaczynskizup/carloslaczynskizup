@@ -11,6 +11,8 @@
 
 Além da minha paixão por tecnologia, sou um aficionado dos anos 80, com o rock'n'roll no coração e um apreço especial pelo eurodance. Sou casado, tenho um filho e dois animados gatos de estimação, que sempre me mantêm ocupado fora do mundo da programação.
 
+Também é importante destacar que sou uma Pessoa com Deficiência (PcD) e utilizo a tecnologia, especificamente Implantes Cocleares, vulgos "ouvidos biônicos", para ouvir. Isso não apenas me inspira a explorar tecnologias de acessibilidade, mas também me torna sensível às necessidades de inclusão e acessibilidade no desenvolvimento de software.
+
 ## Habilidades
 
 - Linguagens de programação: Java
