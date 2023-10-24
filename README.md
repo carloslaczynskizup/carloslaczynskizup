@@ -22,8 +22,6 @@ Também é importante destacar que sou uma Pessoa com Deficiência (PcD) e utili
 
 ## Contato
 
-Você pode entrar em contato comigo através do meu email: [Seu endereço de email]
-
 Conecte-se comigo nas redes sociais:
 
 - [LinkedIn](https://www.linkedin.com/in/calj82)
