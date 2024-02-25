@@ -13,6 +13,8 @@ Além da minha paixão por tecnologia, sou um aficionado dos anos 80, com o rock
 
 Também é importante destacar que sou uma Pessoa com Deficiência (PcD) e utilizo a tecnologia, especificamente Implantes Cocleares, vulgos "ouvidos biônicos", para ouvir. Isso não apenas me inspira a explorar tecnologias de acessibilidade, mas também me torna sensível às necessidades de inclusão e acessibilidade no desenvolvimento de software.
 
+Estou atualmente iniciando a expansão do meu conhecimento na área de Dados através do programa Desenvolve pelo Grupo Boticário, consolidando ainda mais minha versatilidade e minha capacidade de agregar valor em diferentes contextos profissionais.
+
 ## Habilidades
 
 ### Habilidades Técnicas (Hard Skills)
